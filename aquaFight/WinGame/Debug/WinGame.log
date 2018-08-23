@@ -1,0 +1,55 @@
+﻿빌드 시작: 2015-06-15 오후 3:12:57
+     1>2 노드의 "C:\Users\mts\Desktop\아쿠아대전\WinGame\WinGame.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main2.cpp
+         main2.cpp
+     1>c:\users\mts\desktop\아쿠아대전\wingame\main2.cpp(345): warning C4065: switch문에 'default'가 있으나 'case' 레이블이 없습니다.
+     1>c:\users\mts\desktop\아쿠아대전\wingame\main2.cpp(426): warning C4244: '-=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\mts\desktop\아쿠아대전\wingame\main2.cpp(427): warning C4244: '-=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\mts\desktop\아쿠아대전\wingame\main2.cpp(434): warning C4244: '-=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\mts\desktop\아쿠아대전\wingame\main2.cpp(435): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\mts\desktop\아쿠아대전\wingame\main2.cpp(442): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\mts\desktop\아쿠아대전\wingame\main2.cpp(443): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\mts\desktop\아쿠아대전\wingame\main2.cpp(450): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\mts\desktop\아쿠아대전\wingame\main2.cpp(451): warning C4244: '-=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\mts\desktop\아쿠아대전\wingame\main2.cpp(459): warning C4244: '-=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\mts\desktop\아쿠아대전\wingame\main2.cpp(466): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\mts\desktop\아쿠아대전\wingame\main2.cpp(473): warning C4244: '-=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\mts\desktop\아쿠아대전\wingame\main2.cpp(480): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\mts\desktop\아쿠아대전\wingame\main2.cpp(512): warning C4244: '-=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\mts\desktop\아쿠아대전\wingame\main2.cpp(513): warning C4244: '-=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\mts\desktop\아쿠아대전\wingame\main2.cpp(520): warning C4244: '-=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\mts\desktop\아쿠아대전\wingame\main2.cpp(521): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\mts\desktop\아쿠아대전\wingame\main2.cpp(528): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\mts\desktop\아쿠아대전\wingame\main2.cpp(529): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\mts\desktop\아쿠아대전\wingame\main2.cpp(536): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\mts\desktop\아쿠아대전\wingame\main2.cpp(537): warning C4244: '-=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\mts\desktop\아쿠아대전\wingame\main2.cpp(547): warning C4244: '-=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\mts\desktop\아쿠아대전\wingame\main2.cpp(555): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\mts\desktop\아쿠아대전\wingame\main2.cpp(563): warning C4244: '-=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\mts\desktop\아쿠아대전\wingame\main2.cpp(571): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\mts\desktop\아쿠아대전\wingame\main2.cpp(693): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\mts\desktop\아쿠아대전\wingame\main2.cpp(702): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\mts\desktop\아쿠아대전\wingame\main2.cpp(711): warning C4244: '-=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\mts\desktop\아쿠아대전\wingame\main2.cpp(713): warning C4305: '+=' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\mts\desktop\아쿠아대전\wingame\main2.cpp(738): warning C4244: '-=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\mts\desktop\아쿠아대전\wingame\main2.cpp(747): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\mts\desktop\아쿠아대전\wingame\main2.cpp(756): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\mts\desktop\아쿠아대전\wingame\main2.cpp(758): warning C4305: '+=' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\mts\desktop\아쿠아대전\wingame\main2.cpp(774): warning C4244: '-=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\mts\desktop\아쿠아대전\wingame\main2.cpp(782): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\mts\desktop\아쿠아대전\wingame\main2.cpp(790): warning C4244: '-=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\mts\desktop\아쿠아대전\wingame\main2.cpp(799): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\mts\desktop\아쿠아대전\wingame\main2.cpp(815): warning C4244: '-=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\mts\desktop\아쿠아대전\wingame\main2.cpp(823): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\mts\desktop\아쿠아대전\wingame\main2.cpp(831): warning C4244: '-=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\mts\desktop\아쿠아대전\wingame\main2.cpp(840): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\mts\Desktop\아쿠아대전\WinGame\Debug\WinGame.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\mts\Desktop\아쿠아대전\WinGame\Debug\WinGame.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\mts\Desktop\아쿠아대전\WinGame\Debug\WinGame.lib" /MACHINE:X86 msimg32.lib Debug\Resource.res
+         Debug\main2.obj
+         WinGame.vcxproj -> C:\Users\mts\Desktop\아쿠아대전\WinGame\Debug\WinGame.exe
+     1>"C:\Users\mts\Desktop\아쿠아대전\WinGame\WinGame.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:01.68

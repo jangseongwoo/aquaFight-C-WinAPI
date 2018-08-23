@@ -1,0 +1,73 @@
+﻿빌드 시작: 2015-06-15 오후 4:56:02
+     1>2 노드의 "C:\Users\mts\Desktop\아쿠아대전\WinGame\WinGame.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main2.cpp
+         main2.cpp
+     1>main2.cpp(399): warning C4065: switch문에 'default'가 있으나 'case' 레이블이 없습니다.
+     1>main2.cpp(480): warning C4244: '-=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(481): warning C4244: '-=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(488): warning C4244: '-=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(489): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(496): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(497): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(504): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(505): warning C4244: '-=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(513): warning C4244: '-=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(520): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(527): warning C4244: '-=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(534): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(575): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(576): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(578): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(579): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(589): warning C4244: '-=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(590): warning C4244: '-=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(597): warning C4244: '-=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(598): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(605): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(606): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(613): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(614): warning C4244: '-=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(624): warning C4244: '-=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(632): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(640): warning C4244: '-=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(648): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(690): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(691): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(693): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(694): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(791): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(800): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(809): warning C4244: '-=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(811): warning C4305: '+=' : 'double'에서 'float'(으)로 잘립니다.
+     1>main2.cpp(860): warning C4305: '+=' : 'double'에서 'float'(으)로 잘립니다.
+     1>main2.cpp(864): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(865): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(886): warning C4244: '-=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(895): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(904): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(906): warning C4305: '+=' : 'double'에서 'float'(으)로 잘립니다.
+     1>main2.cpp(953): warning C4305: '+=' : 'double'에서 'float'(으)로 잘립니다.
+     1>main2.cpp(957): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(958): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(970): warning C4244: '-=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(978): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(986): warning C4244: '-=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(995): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(1011): warning C4244: '-=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(1019): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(1027): warning C4244: '-=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(1036): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(1281): warning C4244: '인수' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main2.cpp(1308): warning C4244: '인수' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\mts\Desktop\아쿠아대전\WinGame\Release\WinGame.exe" /INCREMENTAL:NO /NOLOGO msimg32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\mts\Desktop\아쿠아대전\WinGame\Release\WinGame.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\mts\Desktop\아쿠아대전\WinGame\Release\WinGame.lib" /MACHINE:X86 /SAFESEH Release\Resource.res
+         Release\main2.obj
+         코드를 생성하고 있습니다.
+         코드를 생성했습니다.
+         WinGame.vcxproj -> C:\Users\mts\Desktop\아쿠아대전\WinGame\Release\WinGame.exe
+     1>"C:\Users\mts\Desktop\아쿠아대전\WinGame\WinGame.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:05.04
