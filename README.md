@@ -31,9 +31,9 @@ Win API를 배우며 진행한 학기말 프로젝트입니다.
 비트맵 이미지를 이용해서 맵 및 캐릭터(잠수함) 띄우기
 <img align="left" src="images/c1.png" width="100" height="100">
 <img align="left" src="images/c2.png" width="100" height="100">
-<img align="left" src="images/m1.png" width="100" height="50">
-<img align="left" src="images/m2.png" width="100" height="50">
-
+<img align="left" src="images/m1.png" width="100" height="40">
+<img align="left" src="images/m2.png" width="100" height="40">
+<br><br>
 2)  움직임 구현
 
 - 처음 기본 면에서는 1P는 왼쪽 끝 세로 중앙 2P는 오른쪽 끝에 세로 중앙에 위치.<br>
